@@ -1,0 +1,24 @@
+{
+  "list": {
+    "title": "Veículos",
+    "new": "Novo Veículo",
+    "search": "Buscar por placa, marca ou modelo...",
+    "status": {
+      "active": "Ativo",
+      "maintenance": "Em Manutenção",
+      "inactive": "Inativo"
+    }
+  },
+  "details": {
+    "info": "Informações",
+    "documents": "Documentos",
+    "maintenance": "Manutenções",
+    "fuel": "Consumo de Combustível"
+  },
+  "types": {
+    "truck": "Caminhão",
+    "crane": "Guindaste",
+    "munk": "Munk",
+    "other": "Outro"
+  }
+}

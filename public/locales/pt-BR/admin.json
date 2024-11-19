@@ -1,0 +1,47 @@
+{
+  "dashboard": {
+    "title": "Dashboard Administrativo",
+    "stats": {
+      "totalCompanies": "Total de Empresas",
+      "activeUsers": "Usuários Ativos",
+      "monitoredVehicles": "Veículos Monitorados",
+      "pendingAlerts": "Alertas Pendentes"
+    }
+  },
+  "companies": {
+    "title": "Empresas",
+    "new": "Nova Empresa",
+    "search": "Buscar empresas...",
+    "status": {
+      "active": "Ativa",
+      "inactive": "Inativa",
+      "pending": "Pendente"
+    }
+  },
+  "financial": {
+    "title": "Financeiro Global",
+    "stats": {
+      "totalRevenue": "Receita Total",
+      "activeCompanies": "Empresas Ativas",
+      "pendingPayments": "Pagamentos Pendentes",
+      "mrr": "MRR"
+    }
+  },
+  "plans": {
+    "title": "Planos",
+    "new": "Novo Plano",
+    "edit": "Editar Plano",
+    "features": "Funcionalidades",
+    "limits": "Limites"
+  },
+  "notifications": {
+    "title": "Notificações",
+    "templates": "Templates",
+    "new": "Nova Notificação",
+    "status": {
+      "sent": "Enviada",
+      "pending": "Pendente",
+      "failed": "Falha"
+    }
+  }
+}

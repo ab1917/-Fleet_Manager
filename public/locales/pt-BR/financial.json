@@ -1,0 +1,30 @@
+{
+  "dashboard": {
+    "title": "Financeiro",
+    "stats": {
+      "currentBalance": "Saldo Atual",
+      "receivable": "A Receber",
+      "payable": "A Pagar",
+      "invoices": "Faturas"
+    }
+  },
+  "transactions": {
+    "title": "Transações",
+    "new": "Nova Transação",
+    "type": {
+      "income": "Receita",
+      "expense": "Despesa"
+    },
+    "status": {
+      "completed": "Concluída",
+      "pending": "Pendente",
+      "cancelled": "Cancelada"
+    }
+  },
+  "reports": {
+    "title": "Relatórios",
+    "cashFlow": "Fluxo de Caixa",
+    "expenses": "Principais Despesas",
+    "export": "Exportar Relatório"
+  }
+}

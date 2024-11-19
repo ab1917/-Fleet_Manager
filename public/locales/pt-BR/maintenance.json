@@ -1,0 +1,22 @@
+{
+  "schedule": {
+    "title": "Agenda de Manutenção",
+    "new": "Agendar Manutenção",
+    "filter": "Filtrar por status",
+    "status": {
+      "scheduled": "Agendada",
+      "inProgress": "Em andamento",
+      "completed": "Concluída"
+    }
+  },
+  "types": {
+    "preventive": "Preventiva",
+    "corrective": "Corretiva",
+    "calibration": "Calibração"
+  },
+  "alerts": {
+    "title": "Alertas",
+    "upcoming": "Próximas Manutenções",
+    "overdue": "Manutenções Atrasadas"
+  }
+}

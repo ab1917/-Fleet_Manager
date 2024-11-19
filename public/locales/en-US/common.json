@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "Fleet Manager",
+    "description": "Fleet Management System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "vehicles": "Vehicles",
+    "maintenance": "Maintenance",
+    "drivers": "Drivers",
+    "financial": "Financial",
+    "settings": "Settings"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export"
+  }
+}
